@@ -1,0 +1,36 @@
+2021-03-23 22:34:52,863 INFO org.springframework.boot.StartupInfoLogger [main] Starting Tmp3Application using Java 1.8.0_281 on DESKTOP-CHRI3SU with PID 5976 (C:\Users\Glogowski\Desktop\dev\tmp3\build\classes\java\main started by Glogowski in C:\Users\Glogowski\Desktop\dev\tmp3)
+2021-03-23 22:34:52,861 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.1.7.Final
+2021-03-23 22:34:52,864 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-03-23 22:34:53,333 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2021-03-23 22:34:53,340 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2021-03-23 22:34:53,340 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2021-03-23 22:34:53,340 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-03-23 22:34:53,389 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2021-03-23 22:34:53,390 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 499 ms
+2021-03-23 22:34:53,513 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2021-03-23 22:34:53,525 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2021-03-23 22:34:53,532 INFO org.springframework.boot.StartupInfoLogger [main] Started Tmp3Application in 0.95 seconds (JVM running for 1.328)
+2021-03-23 22:35:48,400 INFO org.springframework.boot.StartupInfoLogger [main] Starting Tmp3Application using Java 1.8.0_281 on DESKTOP-CHRI3SU with PID 10068 (C:\Users\Glogowski\Desktop\dev\tmp3\build\classes\java\main started by Glogowski in C:\Users\Glogowski\Desktop\dev\tmp3)
+2021-03-23 22:35:48,400 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.1.7.Final
+2021-03-23 22:35:48,402 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-03-23 22:35:48,865 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2021-03-23 22:35:48,870 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2021-03-23 22:35:48,870 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2021-03-23 22:35:48,871 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-03-23 22:35:48,919 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2021-03-23 22:35:48,919 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 489 ms
+2021-03-23 22:35:49,038 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2021-03-23 22:35:49,048 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2021-03-23 22:35:49,054 INFO org.springframework.boot.StartupInfoLogger [main] Started Tmp3Application in 0.936 seconds (JVM running for 1.312)
+2021-03-23 22:36:10,353 INFO org.springframework.boot.StartupInfoLogger [main] Starting Tmp3Application using Java 1.8.0_281 on DESKTOP-CHRI3SU with PID 7564 (C:\Users\Glogowski\Desktop\dev\tmp3\build\classes\java\main started by Glogowski in C:\Users\Glogowski\Desktop\dev\tmp3)
+2021-03-23 22:36:10,351 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.1.7.Final
+2021-03-23 22:36:10,354 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2021-03-23 22:36:10,817 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2021-03-23 22:36:10,823 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2021-03-23 22:36:10,823 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2021-03-23 22:36:10,823 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.44]
+2021-03-23 22:36:10,872 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2021-03-23 22:36:10,872 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 492 ms
+2021-03-23 22:36:11,001 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2021-03-23 22:36:11,013 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2021-03-23 22:36:11,019 INFO org.springframework.boot.StartupInfoLogger [main] Started Tmp3Application in 0.942 seconds (JVM running for 1.321)
